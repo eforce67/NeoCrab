@@ -4,6 +4,10 @@ Welcome to **NeoCrab**, an innovative project developed by @eforce67. NeoCrab is
 
 > **Compatibility:** The scripts included in this project have been tested and confirmed to be compatible with Python 3.10 and above. Please note that compatibility with versions below Python 3.10 has not been verified and therefore is not guaranteed.
 
+> [!Important Note]
+> It's crucial to customize the model.py file according to your requirements. Additionally, you should also modify your document files located in the `source_document` directory and the database where your embeddings are created and stored.
+> The script is designed to handle multiple files in the `source_document` directory. You can add as many files as you want, and the script will combine all the data into a single database. This feature allows for a more comprehensive and robust database for your project.
+
 ## File Descriptions
 
 This project consists of several key scripts:
@@ -20,8 +24,3 @@ NeoCrab is equipped with a range of exciting features:
 - **Embedding Script**: The project includes an embedding script, which is based on the script found at this link [click here for embeddings code][./embeds.py].
 - **Discord Bot Typing Display**: This feature enhances the user experience by displaying a typing animation for the bot on Discord, making the interaction feel more natural and engaging.
 - **Conversation Memory**: One of the standout features of NeoCrab is its ability to remember previous conversations. It does this by summarizing all previous interactions, which allows for more coherent and continuous conversations.
-
-# Notes
-> [!Important Note]
-> It's crucial to customize the model.py file according to your requirements. Additionally, you should also modify your document files located in the `source_document` directory and the database where your embeddings are created and stored.
-> The script is designed to handle multiple files in the `source_document` directory. You can add as many files as you want, and the script will combine all the data into a single database. This feature allows for a more comprehensive and robust database for your project.
