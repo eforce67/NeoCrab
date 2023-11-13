@@ -4,6 +4,8 @@ Welcome to **NeoCrab**, an innovative project developed by @eforce67. NeoCrab is
 
 > **Compatibility:** The scripts included in this project have been tested and confirmed to be compatible with Python 3.10 and above. Please note that compatibility with versions below Python 3.10 has not been verified and therefore is not guaranteed.
 
+![alt text](./Capture.JPG)
+
 > [!NOTE]
 > It's crucial to customize the model.py file according to your requirements. Additionally, you should also modify your document files located in the `source_document` directory and the database where your embeddings are created and stored.
 > The script is designed to handle multiple files in the `source_document` directory. You can add as many files as you want, and the script will combine all the data into a single database. This feature allows for a more comprehensive and robust database for your project.
