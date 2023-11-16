@@ -24,6 +24,6 @@ This project consists of several key scripts:
 NeoCrab is equipped with a range of exciting features:
 
 - **Lang-chain Agent**: The Lang-chain agent is a powerful tool that comes with a wide array of functionalities. You can add more tools and customize its capabilities by modifying the model.py file.
-- **Embedding Script**: The project includes an embedding script, which is based on the script found at this link [click here for embeddings code][./embeds.py].
+- **Embedding Script**: The project includes an embedding script, which is based on the script found at this link [here](./embeds.py).
 - **Discord Bot Typing Display**: This feature enhances the user experience by displaying a typing animation for the bot on Discord, making the interaction feel more natural and engaging.
 - **Conversation Memory**: One of the standout features of NeoCrab is its ability to remember previous conversations. It does this by summarizing all previous interactions, which allows for more coherent and continuous conversations.
